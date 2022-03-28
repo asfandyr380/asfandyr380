@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asfandyr380&label=Profile%20views&color=0e75b6&style=flat" alt="asfandyr380" /> </p>
 
-- 🔭 I’m currently working on **Fx Finance**
+- 🔭 I’m currently working on **Cashmify**
 
 - 🌱 I’m currently learning **react, blockchain**
 
