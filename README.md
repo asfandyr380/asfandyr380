@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asfandyr380&label=Profile%20views&color=0e75b6&style=flat" alt="asfandyr380" /> </p>
 
-- 🔭 I’m currently working on **Hotel Le Paris**
+- 🔭 I’m currently working on **Contribee**
 
-- 🌱 I’m currently learning **blockchain**
+- 🌱 I’m currently learning **Machine Learning/AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/asfandyr380](https://github.com/asfandyr380)
 
